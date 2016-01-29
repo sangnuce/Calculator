@@ -1,0 +1,9 @@
+E:\Projects\Calculator\Calculator\bin\Release\Calculator.exe.config
+E:\Projects\Calculator\Calculator\bin\Release\Calculator.exe
+E:\Projects\Calculator\Calculator\bin\Release\Calculator.pdb
+E:\Projects\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+E:\Projects\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+E:\Projects\Calculator\Calculator\obj\Release\Calculator.exe
+E:\Projects\Calculator\Calculator\obj\Release\Calculator.pdb
+E:\Projects\Calculator\Calculator\obj\Release\Calculator.f_Main.resources
+E:\Projects\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
